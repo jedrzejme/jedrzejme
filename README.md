@@ -10,4 +10,4 @@
  - Bash
  - Batch
 
-[**My PGP Public Key**](https://raw.githubusercontent.com/jedrzejme/jedrzejme/main/pgp.asc)
+[**My PGP Public Key**](https://jedrzej.me/mypgp)
