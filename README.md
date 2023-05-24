@@ -8,6 +8,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jedrzejme"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jedrzejme" /></a><a href="https://ko-fi.com/jedrzejme"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jedrzejme" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jedrzejme&show_icons=true&theme=merko&locale=en&layout=compact" alt="jedrzejme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedrzejme&show_icons=true&theme=merko&locale=en" alt="jedrzejme" /></p>
+<div class="row">
+  <div class="column">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jedrzejme&show_icons=true&theme=merko&locale=en&layout=compact" alt="jedrzejme" />
+  </div>
+  <div class="column">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jedrzejme&show_icons=true&theme=merko&locale=en" alt="jedrzejme" />
+  </div>
+</div>
