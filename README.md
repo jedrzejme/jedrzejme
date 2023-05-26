@@ -23,4 +23,4 @@
 
 <br>
 
-<a href="https://gist.github.com/jedrzejme" target="_blank" rel="noreferrer"> <img src="assets/myGists.png" alt="my Gists" width="840" height="216"/> </a>
+<a href="https://gist.github.com/jedrzejme" target="_blank" rel="noreferrer"> <img src="assets/myGists.png" alt="my Gists" width="210" height="54"/> </a>
