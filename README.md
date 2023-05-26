@@ -23,11 +23,4 @@
 
 <br>
 
-<div class="row">
-  <div class="column">
-    <a href="https://gist.github.com/jedrzejme" target="_blank" rel="noreferrer"> <img align="left" src="assets/myGists.png" alt="my Gists" width="210" height="54"/> </a>
-  </div>
-  <div class="column">
-  <img align="right" src="assets/proGitHubLabel.png" alt="my Gists" width="131" height="73"/>
-  </div>
-</div>
+<a href="https://gist.github.com/jedrzejme" target="_blank" rel="noreferrer"> <img align="left" src="assets/myGists.png" alt="my Gists" width="210" height="54"/> </a>
