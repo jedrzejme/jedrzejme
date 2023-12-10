@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jędrzej</h1>
 
-- 🔭 I’m currently working on [Random Phone Number Generator](https://github.com/jedrzejme/RandomPhoneNumberGenerator)
+- 🔭 I’m currently working on [Dynamic DNS using Cloudflare](https://github.com/jedrzejme/DynamicDNSUsingCloudflare)
 
 
 <h3 align="left">Languages and Tools:</h3>
