@@ -2,7 +2,7 @@
 <h3 align="left">📞 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jedrzej_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jedrzej_me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jędrzej-bakalarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jędrzej-bakalarski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jedrzej-bakalarski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jędrzej-bakalarski" height="30" width="40" /></a>
 <a href="https://fb.com/jedrzej.bakalarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jedrzej.bakalarski" height="30" width="40" /></a>
 <a href="https://instagram.com/j3drz3j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j3drz3j_" height="30" width="40" /></a>
 </p>
